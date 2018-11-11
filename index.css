@@ -1,0 +1,11 @@
+.hey{
+  font-size: 15pt
+}
+header > div{
+  /* the div in the header tag */
+    height: 200px
+}
+.wide{
+  /* makes the width of h5 -> full */
+  width: 100%
+}
